@@ -318,7 +318,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                         SizedBox(width: 5),
                         Text(
-                          'CM',
+                          'M',
                           style: TextStyle(color: backgroundColorMale),
                         ),
                         SizedBox(width: 5),
